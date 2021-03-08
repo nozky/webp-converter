@@ -13,6 +13,7 @@
 
 That's it!
 
+>>NOTE: Setup only done once. If you want to batch process a set of images again, all you need to do is the execution part.
 ---
 ### Legend
 - **_images_** folder, is where you place your images.
