@@ -13,6 +13,11 @@
 
 That's it!
 
+---
+### Legend
+- **_images_** folder, is where you place your images.
+- **_webp-converted_** folder, is the output folder, all converted images goes in here. 
+
 --- 
 ## Attribution
 
