@@ -5,11 +5,11 @@
 
 - Setup
   - clone this project
-  - run npm install
+  - Relative path to App.js in the console run 'npm install'
 
 - Execution
-  - Put any images in the images folder
-  - In a relative path, run 'npm start'
+  - Put all images in the images folder
+  - Relative path to App.js, in the console run 'npm start'
 
 That's it!
 
