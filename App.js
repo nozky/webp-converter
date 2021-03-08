@@ -5,12 +5,12 @@
 
 
 
-const webp=require('webp-converter');
+const webp = require('webp-converter');
 const fs = require('fs');
 const path = require('path');
 
 
-// create a relative file
+// create a relative path
 const imagesDir = path.join(__dirname,'./images');
 
 // set quality
