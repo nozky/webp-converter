@@ -1,6 +1,6 @@
 
 // images folder = put all you image in here.
-// webp-converted = is where all images put when it's done converting.
+// webp-converted = is where all images place when it's done converting.
 // Relative path, in the terminal run -> 'npm start'
 
 
