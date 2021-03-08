@@ -8,7 +8,7 @@
   - Relative path to App.js in the console run 'npm install'
 
 - Execution
-  - Place all images in the images folder
+  - Place all images in the **_images_** folder
   - Relative path to App.js, in the console run 'npm start'
 
 That's it!
