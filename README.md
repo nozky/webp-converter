@@ -13,7 +13,7 @@
 
 That's it!
 
->>NOTE: Setup only done once. If you want to batch process a set of images again, all you need to do is the execution part.
+>>NOTE: Setup only done once. If you want to batch process a set of images again, all you need to do is the execution part. Delete the file .gitkeep in the folders **images** and **webp-coverted**, only reason why there is a file .gitkeep in there so that i can push an empty folder. 
 ---
 ### Legend
 - **_images_** folder, is where you place your images.
