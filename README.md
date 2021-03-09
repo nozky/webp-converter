@@ -1,6 +1,6 @@
 # Convert any images to webP image in batch.
 ---
-
+* turn functions accepting callbacks into promises, and then chain them with .then statements
 ## Instruction
 
 - Setup
@@ -11,6 +11,8 @@
   - Place all images in the **_images_** folder
   - Relative path to App.js, in the console run 'npm start'
 
+* NOTE: Added CLI input, run with the target folder as command line argument.
+* TODO: automatically create a new folder to export files into, create as sibling to the target folder
 That's it!
 
 ### TODO NEW FEATURE  (ashlyn)
