@@ -1,18 +1,19 @@
 {
-"name": "webp-batchprocess",
-"version": "1.0.0",
-"description": "",
-"main": "index.js",
-"scripts": {
-"test": "echo \"Error: no test specified\" && exit 1",
-"start": "node App.js"
-},
-"author": "",
-"license": "ISC",
-"devDependencies": {
-"nodemon": "^2.0.7"
-},
-"dependencies": {
-"webp-converter": "^2.3.3"
-}
+  "name": "webp-batchprocess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "node-file-dialog": "^1.0.3",
+    "webp-converter": "^2.3.3"
+  }
 }
