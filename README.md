@@ -1,7 +1,7 @@
 # Convert any images to webP image in batch.
 ---
 
-### Instruction
+## Instruction
 
 - Setup
   - Clone this project
@@ -13,9 +13,13 @@
 
 That's it!
 
+### TODO NEW FEATURE  (ashlyn)
+* Command line argument input directory
+* Autocreates output directory
+
 >>NOTE: Setup only done once. If you want to batch process a set of images again, all you need to do is the execution part.
 ---
-### Legend
+## Legend
 - **_images_** folder, is where you place your images.
 - **_webp-converted_** folder, is the output folder, all converted images goes in here. 
 
@@ -27,8 +31,9 @@ That's it!
 [https://developers.google.com/speed/webp](https://developers.google.com/speed/webp)
 
 ---
-## Author
+## Authors
 Norvillie Villaruel
+Ashlyn Knox
 SAIT web dev 2021
 
 
