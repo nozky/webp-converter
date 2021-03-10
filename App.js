@@ -6,10 +6,19 @@
 const webp = require('webp-converter');
 const fs = require('fs');
 const path = require('path');
+const process = require('process')
 
+// accept commandline argument
+if (process.argv.length < 3 || process.argv.length > 3) {
+  console.log("error, please input a single directory as a command line argument")
+  process.exit(1)
+}
 
 // create a relative path
-const imagesDir = path.join(__dirname,'./images');
+//const imagesDir = path.join(__dirname,'./images');
+
+let imagesDir = process.argv[2];
+console.log(path.imagesDir)
 
 
 
@@ -40,3 +49,4 @@ result.then((response) => {
 
 // run
 scanDir(imagesDir);
+
